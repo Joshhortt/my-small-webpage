@@ -1,10 +1,9 @@
 # _My Small Webpage_
 
-_This Webpage is about my Roadmap of studying Programming Languages and my   favorite things<br/>
+_This Webpage is about my Roadmap of studying Programming Languages and my   favorite things.<br/>
 version: 14/03/2018_<br/>
 
 By _**Josh Hortt**_
-
 
 ## Description
 
@@ -16,7 +15,7 @@ _Contribute to my-small-webpage by cloning this repository_
 
 ## Contribute
 
-_**Issue Tracking**: github.com/Joshhortt/my-small-webpage/issues_
+_**Issue Tracking**: github.com/Joshhortt/my-small-webpage/issues_<br/>
 _**Source**: github.com/Joshhortt/my-small-webpage_
 
 ## Support and Contact Details
@@ -28,6 +27,6 @@ _If you have any issues or have questions, ideas, concerns please contact:_ josh
 _**HTML** - Hyper Text Markup Language_
 _**CSS** - Cascading Style Sheets}_
 
-#### License
+## License
 
 *MIT License. Copyright (c) 2018 Josh Hortt*
