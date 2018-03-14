@@ -1,32 +1,33 @@
-# _{My Small Webpage}_
+# _My Small Webpage_
 
-#### _{This Webpage is about my study Programming Languages Roadmap and my favorite things}, {version: 14/03/2018}_
+_This Webpage is about my Roadmap of studying Programming Languages and my   favorite things<br/>
+version: 14/03/2018_<br/>
 
-#### By _**{Josh Hortt}**_
+By _**Josh Hortt**_
 
 
 ## Description
 
-_{The purpose of this Webpage is adding the next 300 days relevant updates. }_
+_The purpose of this Webpage is adding the next 300 days relevant updates._
 
 ## Setup/Installation Requirements
 
-_{Contribute to my-small-webpage by cloning this repository}_
+_Contribute to my-small-webpage by cloning this repository_
 
-## Contribute:
+## Contribute
 
-_{**Issue Tracking**: github.com/Joshhortt/my-small-webpage/issues}_
-_{**Source**: github.com/Joshhortt/my-small-webpage}_
+_**Issue Tracking**: github.com/Joshhortt/my-small-webpage/issues_
+_**Source**: github.com/Joshhortt/my-small-webpage_
 
 ## Support and Contact Details
 
-_{If you have any issues or have questions, ideas, concerns please contact: joshhortt@yahoo.com}_
+_If you have any issues or have questions, ideas, concerns please contact:_ joshhortt@yahoo.com
 
 ## Technologies Used
 
-_{HTML - Hyper Text Markup Language}_
-_{CSS - Cascading Style Sheets}_
+_**HTML** - Hyper Text Markup Language_
+_**CSS** - Cascading Style Sheets}_
 
-### License
+#### License
 
-*{MIT License. Copyright (c) 2018 Josh Hortt}*
+*MIT License. Copyright (c) 2018 Josh Hortt*
